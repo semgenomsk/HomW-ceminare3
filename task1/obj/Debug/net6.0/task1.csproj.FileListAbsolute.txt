@@ -1,0 +1,15 @@
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\bin\Debug\net6.0\task1.exe
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\bin\Debug\net6.0\task1.deps.json
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\bin\Debug\net6.0\task1.dll
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\bin\Debug\net6.0\task1.pdb
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\task1.dll
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\refint\task1.dll
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\task1.pdb
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+H:\GekBreans\Project-семинары\3 урок\HomW-ceminare3\HomW-ceminare3\task1\obj\Debug\net6.0\ref\task1.dll
